@@ -1,7 +1,7 @@
 {
+  "version": 0,
   "base_version": 1,
-  "note": "in-game menu button + dust off",
-  "pck_url": "https://github.com/norbull/cabin-updates/releases/download/v2/patch_v2.pck",
-  "sha256": "1fa72ddc781a8bfe0490ebc18751920d9416b8e5fdc78371ca39fd217946f07f",
-  "version": 2
+  "pck_url": "",
+  "sha256": "",
+  "note": "base APK v2 (internet-fix + menu + dust off baked); no pending patch"
 }
