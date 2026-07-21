@@ -1,7 +1,7 @@
 {
-  "version": 0,
   "base_version": 1,
-  "pck_url": "",
-  "sha256": "",
-  "note": "base only, no patch yet"
+  "note": "dust toned down (no blue blobs)",
+  "pck_url": "https://github.com/norbull/cabin-updates/releases/download/v1/patch_v1.pck",
+  "sha256": "4393cde19b2cd00e1bc6580ae0adac3d0ed9a74a5c35579e12481d4c9f1e522a",
+  "version": 1
 }
