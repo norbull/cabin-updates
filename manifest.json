@@ -1,7 +1,7 @@
 {
-  "version": 0,
+  "version": 2,
   "base_version": 1,
-  "pck_url": "",
-  "sha256": "",
-  "note": "base APK v2 (internet-fix + menu + dust off baked); no pending patch"
+  "pck_url": "https://raw.githubusercontent.com/norbull/cabin-updates/main/patch_v2.pck",
+  "sha256": "11c58ada498f16afc927feafb9fb6656367075745050efa609e4d85d6c6d0360",
+  "note": "OTA v1.1 -- main-menu version tag (first live OTA patch)"
 }
