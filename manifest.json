@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "base_version": 1,
-  "pck_url": "https://raw.githubusercontent.com/norbull/cabin-updates/main/patch_v2.pck",
-  "sha256": "11c58ada498f16afc927feafb9fb6656367075745050efa609e4d85d6c6d0360",
-  "note": "OTA v1.1 -- main-menu version tag (first live OTA patch)"
+  "pck_url": "https://raw.githubusercontent.com/norbull/cabin-updates/main/patch_v3.pck",
+  "sha256": "975370b481dc1d5c7c8848be3f12ca55329fa4b1bad4f392301d896a6fc553b5",
+  "note": "OTA v3: Norbi-fix batch 1 -- zoom 1.05 default + helicopter-ambient off (v1.2 tag)"
 }
