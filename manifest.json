@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "base_version": 1,
-  "pck_url": "https://raw.githubusercontent.com/norbull/cabin-updates/main/patch_v5.pck",
-  "sha256": "6668ca31fd85b8b6c36b81cdde94d6e995e7a115baadeb409457007e7e395d95",
-  "note": "v5: persistent zoom 1.05 (DisplaySettings config, autoload-boot) + runtime re-assert + exploration-music mute (helikopter) + mobil-safe label; GAMEPLAY-verified"
+  "pck_url": "https://raw.githubusercontent.com/norbull/cabin-updates/main/patch_v6.pck",
+  "sha256": "93891463dc22bec6f14f09f2d547d5c4d1af893fbadeaa53ace245b5dd2e03c3",
+  "note": "v6: real brightening (CanvasModulate x2 + white-veil off) + plasma PointLight2D + EMP button frame-fix + log-fragment green data-chip icon (NOT a broken cell: passive codex pickup, Collect-5 unblocked); cumulative zoom 1.05 + exploration-music mute"
 }
